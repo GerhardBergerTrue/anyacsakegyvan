@@ -1,1 +1,1 @@
-console.log("valami sistereg");
+console.log("valami sistereg mégis ja");
