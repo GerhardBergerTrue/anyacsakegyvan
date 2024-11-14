@@ -1,1 +1,1 @@
-console.log("valami");
+console.log("valami sistereg");
